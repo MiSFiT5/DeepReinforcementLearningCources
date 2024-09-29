@@ -1,0 +1,18 @@
+{"time":"2024-09-29T20:30:12.222041779+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-29T20:30:12.222052259+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab1/wandb/run-20240929_203012-hllkvjib/logs/debug-core.log"}
+{"time":"2024-09-29T20:30:12.222927331+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-29T20:30:12.222932998+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab1/wandb/run-20240929_203012-hllkvjib/logs/debug-core.log"}
+{"time":"2024-09-29T20:30:12.231559125+02:00","level":"INFO","msg":"created new stream","id":"hllkvjib"}
+{"time":"2024-09-29T20:30:12.231575083+02:00","level":"INFO","msg":"stream: started","id":"hllkvjib"}
+{"time":"2024-09-29T20:30:12.231579468+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hllkvjib"}}
+{"time":"2024-09-29T20:30:12.231585583+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"hllkvjib"}}
+{"time":"2024-09-29T20:30:12.231593304+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hllkvjib"}}
+{"time":"2024-09-29T20:30:12.783432761+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-29T20:30:12.787844534+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-29T20:30:13.36145947+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-29T20:30:13.361528718+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-29T20:30:16.907976501+02:00","level":"INFO","msg":"stream: closing","id":"hllkvjib"}
+{"time":"2024-09-29T20:30:16.908013288+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hllkvjib"}}
+{"time":"2024-09-29T20:30:16.908044758+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hllkvjib"}}
+{"time":"2024-09-29T20:30:16.908054474+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"hllkvjib"}}
+{"time":"2024-09-29T20:30:16.908855199+02:00","level":"INFO","msg":"stream: closed","id":"hllkvjib"}

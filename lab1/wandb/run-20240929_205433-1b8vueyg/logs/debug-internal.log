@@ -1,0 +1,18 @@
+{"time":"2024-09-29T20:54:33.228570964+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-29T20:54:33.228587957+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab1/wandb/run-20240929_205433-1b8vueyg/logs/debug-core.log"}
+{"time":"2024-09-29T20:54:33.229472419+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-29T20:54:33.229484646+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab1/wandb/run-20240929_205433-1b8vueyg/logs/debug-core.log"}
+{"time":"2024-09-29T20:54:33.231929404+02:00","level":"INFO","msg":"created new stream","id":"1b8vueyg"}
+{"time":"2024-09-29T20:54:33.231959876+02:00","level":"INFO","msg":"stream: started","id":"1b8vueyg"}
+{"time":"2024-09-29T20:54:33.231984283+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"1b8vueyg"}}
+{"time":"2024-09-29T20:54:33.232009661+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"1b8vueyg"}}
+{"time":"2024-09-29T20:54:33.231966291+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"1b8vueyg"}}
+{"time":"2024-09-29T20:54:33.772644358+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-29T20:54:33.774180012+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-29T20:54:34.243303675+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-29T20:54:34.243381894+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-29T20:54:37.582778894+02:00","level":"INFO","msg":"stream: closing","id":"1b8vueyg"}
+{"time":"2024-09-29T20:54:37.582972951+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"1b8vueyg"}}
+{"time":"2024-09-29T20:54:37.582989263+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"1b8vueyg"}}
+{"time":"2024-09-29T20:54:37.58301925+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"1b8vueyg"}}
+{"time":"2024-09-29T20:54:37.583539202+02:00","level":"INFO","msg":"stream: closed","id":"1b8vueyg"}

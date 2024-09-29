@@ -1,0 +1,18 @@
+{"time":"2024-09-29T20:30:17.019332473+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-29T20:30:17.019344413+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab1/wandb/run-20240929_203017-3nampk57/logs/debug-core.log"}
+{"time":"2024-09-29T20:30:17.020027375+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-29T20:30:17.020034309+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab1/wandb/run-20240929_203017-3nampk57/logs/debug-core.log"}
+{"time":"2024-09-29T20:30:17.022109073+02:00","level":"INFO","msg":"created new stream","id":"3nampk57"}
+{"time":"2024-09-29T20:30:17.022122281+02:00","level":"INFO","msg":"stream: started","id":"3nampk57"}
+{"time":"2024-09-29T20:30:17.022136087+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"3nampk57"}}
+{"time":"2024-09-29T20:30:17.022152748+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3nampk57"}}
+{"time":"2024-09-29T20:30:17.022160733+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"3nampk57"}}
+{"time":"2024-09-29T20:30:17.38329526+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-29T20:30:17.384886879+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-29T20:30:17.754193619+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-29T20:30:17.754442188+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-29T20:30:20.152697606+02:00","level":"INFO","msg":"stream: closing","id":"3nampk57"}
+{"time":"2024-09-29T20:30:20.15272553+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"3nampk57"}}
+{"time":"2024-09-29T20:30:20.152782025+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"3nampk57"}}
+{"time":"2024-09-29T20:30:20.152772509+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"3nampk57"}}
+{"time":"2024-09-29T20:30:20.153689485+02:00","level":"INFO","msg":"stream: closed","id":"3nampk57"}
