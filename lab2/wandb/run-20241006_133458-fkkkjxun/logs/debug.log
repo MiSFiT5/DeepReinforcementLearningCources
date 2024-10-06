@@ -1,0 +1,74 @@
+2024-10-06 13:34:58,662 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-10-06 13:34:58,662 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Configure stats pid to 2849944
+2024-10-06 13:34:58,663 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Loading settings from /users/eleves-a/2023/heyuan.liu/.config/wandb/settings
+2024-10-06 13:34:58,663 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Loading settings from /users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/settings
+2024-10-06 13:34:58,663 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-10-06 13:34:58,663 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-06 13:34:58,664 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-06 13:34:58,664 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-10-06 13:34:58,664 INFO    MainThread:2849944 [wandb_init.py:_log_setup():532] Logging user logs to /users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_133458-fkkkjxun/logs/debug.log
+2024-10-06 13:34:58,665 INFO    MainThread:2849944 [wandb_init.py:_log_setup():533] Logging internal logs to /users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_133458-fkkkjxun/logs/debug-internal.log
+2024-10-06 13:34:58,665 INFO    MainThread:2849944 [wandb_init.py:_jupyter_setup():478] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fae24066d00>
+2024-10-06 13:34:58,665 INFO    MainThread:2849944 [wandb_init.py:init():616] calling init triggers
+2024-10-06 13:34:58,666 INFO    MainThread:2849944 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'total_timesteps': 50000, 'actor_num_hidden_layer': 2, 'critic_num_hidden_layer': 2, 'actor_hidden_layer_units': 32, 'critic_hidden_layer_units': 32}
+2024-10-06 13:34:58,666 INFO    MainThread:2849944 [wandb_init.py:init():641] re-initializing run, found existing run on stack: 10199nu7
+2024-10-06 13:34:58,668 INFO    MainThread:2849944 [wandb_run.py:_finish():2158] finishing run liuheyuan-ecole-polytechnique/INF639/10199nu7
+2024-10-06 13:34:58,668 INFO    MainThread:2849944 [wandb_run.py:_atexit_cleanup():2422] got exitcode: 0
+2024-10-06 13:34:58,668 INFO    MainThread:2849944 [wandb_run.py:_restore():2404] restore
+2024-10-06 13:34:58,669 INFO    MainThread:2849944 [wandb_run.py:_restore():2410] restore done
+2024-10-06 13:35:02,098 INFO    MainThread:2849944 [wandb_run.py:_footer_history_summary_info():4037] rendering history
+2024-10-06 13:35:02,098 INFO    MainThread:2849944 [wandb_run.py:_footer_history_summary_info():4069] rendering summary
+2024-10-06 13:35:02,107 INFO    MainThread:2849944 [wandb_run.py:_footer_sync_info():3996] logging synced files
+2024-10-06 13:35:02,125 INFO    MainThread:2849944 [wandb_init.py:init():666] starting backend
+2024-10-06 13:35:02,125 INFO    MainThread:2849944 [wandb_init.py:init():670] setting up manager
+2024-10-06 13:35:02,126 INFO    MainThread:2849944 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-06 13:35:02,126 INFO    MainThread:2849944 [wandb_init.py:init():678] backend started and connected
+2024-10-06 13:35:02,131 INFO    MainThread:2849944 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-10-06 13:35:02,136 INFO    MainThread:2849944 [wandb_init.py:init():773] updated telemetry
+2024-10-06 13:35:02,165 INFO    MainThread:2849944 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-10-06 13:35:02,424 INFO    MainThread:2849944 [wandb_init.py:init():857] starting run threads in backend
+2024-10-06 13:35:02,765 INFO    MainThread:2849944 [wandb_run.py:_console_start():2459] atexit reg
+2024-10-06 13:35:02,765 INFO    MainThread:2849944 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2024-10-06 13:35:02,765 INFO    MainThread:2849944 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2024-10-06 13:35:02,765 INFO    MainThread:2849944 [wandb_run.py:_redirect():2397] Redirects installed.
+2024-10-06 13:35:02,766 INFO    MainThread:2849944 [wandb_init.py:init():900] run started, returning control to user process
+2024-10-06 13:35:02,825 INFO    MainThread:2849944 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-06 13:35:02,826 INFO    MainThread:2849944 [wandb_init.py:_pause_backend():443] pausing backend
+2024-10-06 13:35:08,764 INFO    MainThread:2849944 [wandb_init.py:_resume_backend():448] resuming backend
+2024-10-06 13:35:08,876 INFO    MainThread:2849944 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-06 13:35:08,876 INFO    MainThread:2849944 [wandb_init.py:_pause_backend():443] pausing backend
+2024-10-06 13:35:40,712 INFO    MainThread:2849944 [wandb_init.py:_resume_backend():448] resuming backend
+2024-10-06 13:35:40,761 INFO    MainThread:2849944 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-06 13:35:40,761 INFO    MainThread:2849944 [wandb_init.py:_pause_backend():443] pausing backend
+2024-10-06 13:35:44,591 INFO    MainThread:2849944 [wandb_init.py:_resume_backend():448] resuming backend
+2024-10-06 13:35:44,644 INFO    MainThread:2849944 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-06 13:35:44,644 INFO    MainThread:2849944 [wandb_init.py:_pause_backend():443] pausing backend
+2024-10-06 13:35:47,117 INFO    MainThread:2849944 [wandb_init.py:_resume_backend():448] resuming backend
+2024-10-06 13:35:47,167 INFO    MainThread:2849944 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-06 13:35:47,167 INFO    MainThread:2849944 [wandb_init.py:_pause_backend():443] pausing backend
+2024-10-06 13:35:53,698 INFO    MainThread:2849944 [wandb_init.py:_resume_backend():448] resuming backend
+2024-10-06 13:35:53,719 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-10-06 13:35:53,719 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Configure stats pid to 2849944
+2024-10-06 13:35:53,719 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Loading settings from /users/eleves-a/2023/heyuan.liu/.config/wandb/settings
+2024-10-06 13:35:53,720 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Loading settings from /users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/settings
+2024-10-06 13:35:53,720 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-10-06 13:35:53,720 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-06 13:35:53,720 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-06 13:35:53,721 INFO    MainThread:2849944 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-10-06 13:35:53,721 INFO    MainThread:2849944 [wandb_init.py:_log_setup():532] Logging user logs to /users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_133553-02iuk3pi/logs/debug.log
+2024-10-06 13:35:53,721 INFO    MainThread:2849944 [wandb_init.py:_log_setup():533] Logging internal logs to /users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_133553-02iuk3pi/logs/debug-internal.log
+2024-10-06 13:35:53,722 INFO    MainThread:2849944 [wandb_init.py:init():616] calling init triggers
+2024-10-06 13:35:53,722 INFO    MainThread:2849944 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'total_timesteps': 1000000}
+2024-10-06 13:35:53,723 INFO    MainThread:2849944 [wandb_init.py:init():641] re-initializing run, found existing run on stack: fkkkjxun
+2024-10-06 13:35:53,725 INFO    MainThread:2849944 [wandb_run.py:_finish():2158] finishing run liuheyuan-ecole-polytechnique/INF639/fkkkjxun
+2024-10-06 13:35:53,725 INFO    MainThread:2849944 [jupyter.py:save_history():459] not saving jupyter history
+2024-10-06 13:35:53,725 INFO    MainThread:2849944 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-06 13:35:53,726 INFO    MainThread:2849944 [wandb_init.py:_jupyter_teardown():460] cleaning up jupyter logic
+2024-10-06 13:35:53,726 INFO    MainThread:2849944 [wandb_run.py:_atexit_cleanup():2422] got exitcode: 0
+2024-10-06 13:35:53,726 INFO    MainThread:2849944 [wandb_run.py:_restore():2404] restore
+2024-10-06 13:35:53,727 INFO    MainThread:2849944 [wandb_run.py:_restore():2410] restore done
+2024-10-06 13:35:56,775 INFO    MainThread:2849944 [wandb_run.py:_footer_history_summary_info():4037] rendering history
+2024-10-06 13:35:56,776 INFO    MainThread:2849944 [wandb_run.py:_footer_history_summary_info():4069] rendering summary
+2024-10-06 13:35:56,795 INFO    MainThread:2849944 [wandb_run.py:_footer_sync_info():3996] logging synced files

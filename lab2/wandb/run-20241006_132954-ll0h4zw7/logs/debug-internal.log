@@ -1,0 +1,37 @@
+{"time":"2024-10-06T13:29:54.034234128+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-06T13:29:54.03424653+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_132954-ll0h4zw7/logs/debug-core.log"}
+{"time":"2024-10-06T13:29:54.035064021+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-06T13:29:54.035071041+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_132954-ll0h4zw7/logs/debug-core.log"}
+{"time":"2024-10-06T13:29:54.050095866+02:00","level":"INFO","msg":"created new stream","id":"ll0h4zw7"}
+{"time":"2024-10-06T13:29:54.05011659+02:00","level":"INFO","msg":"stream: started","id":"ll0h4zw7"}
+{"time":"2024-10-06T13:29:54.050126922+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ll0h4zw7"}}
+{"time":"2024-10-06T13:29:54.050133602+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ll0h4zw7"}}
+{"time":"2024-10-06T13:29:54.050136596+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ll0h4zw7"}}
+{"time":"2024-10-06T13:29:54.395276336+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-06T13:29:54.3975744+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-06T13:29:55.061770292+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:30:12.701123956+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:30:43.16227154+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:30:46.752892677+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:30:46.849080063+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:31:42.170540788+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:31:43.041839916+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:32:01.364792656+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:33:22.129053703+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:33:24.323370863+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:33:24.327770322+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:33:26.682393442+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:33:26.859929642+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:33:31.453564717+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:33:31.593920226+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:33:35.489431399+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:33:35.530328857+02:00","level":"INFO","msg":"tensorboard: inferred root directory","rootDir":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2","logDir":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/logs/lab2_ppo_cartpole_tb/PPO_1","namespace":"logs/lab2_ppo_cartpole_tb/PPO_1"}
+{"time":"2024-10-06T13:34:43.903585866+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-06T13:34:48.76906739+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-06T13:34:48.95124811+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-06T13:34:48.95210963+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-06T13:34:52.753755638+02:00","level":"INFO","msg":"stream: closing","id":"ll0h4zw7"}
+{"time":"2024-10-06T13:34:52.753805003+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ll0h4zw7"}}
+{"time":"2024-10-06T13:34:52.753872407+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ll0h4zw7"}}
+{"time":"2024-10-06T13:34:52.753901189+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ll0h4zw7"}}
+{"time":"2024-10-06T13:34:52.754923415+02:00","level":"INFO","msg":"stream: closed","id":"ll0h4zw7"}

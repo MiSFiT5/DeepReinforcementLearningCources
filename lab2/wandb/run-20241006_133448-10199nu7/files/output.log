@@ -1,0 +1,12 @@
+Exception ignored in: <function RecordVideo.__del__ at 0x7faf9c30c8b0>
+Traceback (most recent call last):
+  File "/users/eleves-a/2023/heyuan.liu/.local/lib/python3.9/site-packages/gym/core.py", line 241, in __getattr__
+    return getattr(self.env, name)
+  File "/users/eleves-a/2023/heyuan.liu/.local/lib/python3.9/site-packages/gym/core.py", line 241, in __getattr__
+    return getattr(self.env, name)
+  File "/users/eleves-a/2023/heyuan.liu/.local/lib/python3.9/site-packages/gym/core.py", line 241, in __getattr__
+    return getattr(self.env, name)
+  [Previous line repeated 996 more times]
+  File "/users/eleves-a/2023/heyuan.liu/.local/lib/python3.9/site-packages/gym/core.py", line 239, in __getattr__
+    if name.startswith("_"):
+RecursionError: maximum recursion depth exceeded while calling a Python object

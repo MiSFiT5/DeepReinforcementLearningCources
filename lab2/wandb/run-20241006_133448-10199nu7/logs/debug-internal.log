@@ -1,0 +1,18 @@
+{"time":"2024-10-06T13:34:52.819792172+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-06T13:34:52.819838465+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_133448-10199nu7/logs/debug-core.log"}
+{"time":"2024-10-06T13:34:52.82078164+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-06T13:34:52.820790186+02:00","level":"INFO","msg":"created symlink","path":"/users/eleves-a/2023/heyuan.liu/DeepReinforcementLearningCources/lab2/wandb/run-20241006_133448-10199nu7/logs/debug-core.log"}
+{"time":"2024-10-06T13:34:52.822840178+02:00","level":"INFO","msg":"created new stream","id":"10199nu7"}
+{"time":"2024-10-06T13:34:52.822857581+02:00","level":"INFO","msg":"stream: started","id":"10199nu7"}
+{"time":"2024-10-06T13:34:52.822861646+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"10199nu7"}}
+{"time":"2024-10-06T13:34:52.822872291+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"10199nu7"}}
+{"time":"2024-10-06T13:34:52.822878041+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"10199nu7"}}
+{"time":"2024-10-06T13:34:53.064381205+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-06T13:34:53.065534659+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-06T13:34:58.669494928+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-06T13:34:58.669889034+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-06T13:35:02.11025589+02:00","level":"INFO","msg":"stream: closing","id":"10199nu7"}
+{"time":"2024-10-06T13:35:02.11026932+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"10199nu7"}}
+{"time":"2024-10-06T13:35:02.110279577+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"10199nu7"}}
+{"time":"2024-10-06T13:35:02.110332205+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"10199nu7"}}
+{"time":"2024-10-06T13:35:02.110815499+02:00","level":"INFO","msg":"stream: closed","id":"10199nu7"}

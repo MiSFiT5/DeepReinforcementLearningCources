@@ -14,3 +14,4 @@
 {"time":"2024-09-30T14:47:09.241124668+02:00","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2024-09-30T14:47:17.111051629+02:00","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2024-09-30T14:49:24.73114698+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-30T16:39:14.033301231+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
